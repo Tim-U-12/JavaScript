@@ -8,9 +8,10 @@ button {
 }
 
 #increment-btn {
-    background-color: darkred;
+    background-color: green;
 }
 
 #save-btn {
-    background-color: green;
+    background-color: red;
 }
+

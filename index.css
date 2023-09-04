@@ -4,8 +4,13 @@ button {
     color: aliceblue;
     font-weight: bold;
     border-radius: 10px;
+    width: 150px;
 }
 
 #increment-btn {
     background-color: darkred;
+}
+
+#save-btn {
+    background-color: green;
 }

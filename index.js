@@ -1,8 +1,9 @@
 let countEl = document.getElementById("count-el")
 
-function increment(){
-    countEl = countEl + 1
+let count = 0
 
-    document.getElementById("count-el").innerText = countEl
+function increment(){
+    count = count + 1
+    countEl.innerText = count
 }
 
